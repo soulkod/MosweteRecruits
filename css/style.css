@@ -1,0 +1,107 @@
+body {
+    font-family: 'Staatliches', sans-serif;
+    text-transform: none;
+}
+/*Styling for logo*/
+.logo {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+  }
+
+/* nav bar styling*/
+nav { 
+    background-color: white;
+    
+}
+
+li{
+    color: #3d25b7;
+    word-spacing: 5.2px; 
+}
+
+/* first Section styling*/
+#first-section{
+    color: #3d25b7;
+
+}
+
+/* enquire btn*/
+.enquire-btn{
+    background-color: #3d25b7;
+    color: white;
+    border-radius: 15px;
+}
+/* second section */
+.our-services-section{
+    background-color: #3d25b7;
+}
+#custome-sub{
+ font-size: 10px;
+}
+
+#body-image{
+    height: 50px;
+}
+
+/*Recruitment for businesses section*/
+.list-inline-item{
+    color: #3bb4bf;
+}
+
+#business-title{
+    color: #3d25b7;
+    letter-spacing: 8px;
+    font-size: 35px;
+    text-transform: lowercase;
+}
+#slogan{
+    color: #3bb4bf;
+    letter-spacing: 5px;
+    font-size: 15px; 
+}
+#subheading-title{
+    color: #3d25b7; 
+}
+#sub-sub-title{
+    letter-spacing: 2px;
+    color: #3d25b7;
+}
+
+
+#mission{
+    color: black;
+}
+
+/*for carousel coder*/
+.slide-picture {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+  }
+
+.carousel-text{
+    color: #3d25b7;
+}
+
+/*contact page sectionsection*/
+.contact-section{
+    background-color: #3d25b7;
+}
+
+.form-column{
+    background-color:#3d25b7;
+   
+    border-color: white;
+    border-width:10px;
+    color: white;
+    border-radius: 25px;
+}
+.submit-btn{
+    background-color: #3d25b7;
+    border-color: white;
+    border-width: 2px;
+    color: white;
+}
